@@ -1,0 +1,2 @@
+# KeepExploding
+This game was made during LiU Fall Game Jam 2021 which is an event where you create a game in 48 hours. In this asymmetrical coop game you play as two terrorists trying to make a bomb in a garage. One of you is the bomb expert with access to the bomb manual with instructions on how to build the most powerful bomb, but you can't look at the screen. The other one sits at the screen and has to construct the bomb with instructions from the bomb expert. WARNING: Probably lots of bugs, ERRR I mean undocumented features ;).
